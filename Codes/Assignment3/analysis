@@ -1,0 +1,5 @@
+Analysis of Scaling Behavior:
+After plotting the speedup, you can analyze if the scaling behavior matches the expected outcomes:
+
+Ideal Scaling: Speedup increases linearly with the number of threads.
+Realistic Scaling: Due to overheads like thread management, cache coherency, and memory bandwidth, speedup might plateau as the number of threads increases, especially for smaller matrix sizes. Larger matrix sizes generally scale better as there is more work per thread.

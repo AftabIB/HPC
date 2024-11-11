@@ -1,0 +1,5 @@
+Average time for reduce with message size 1024: 0.000002 secs
+Average time for reduce with message size 2048: 0.000002 secs
+Average time for reduce with message size 4096: 0.000009 secs
+Average time for reduce with message size 8192: 0.000011 secs
+Average time for reduce with message size 16384: 0.000014 secs
